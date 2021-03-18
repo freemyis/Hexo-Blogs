@@ -115,6 +115,7 @@ BackAnimation:
 HomeHeaderImage: 
   - https://cdn.jsdelivr.net/gh/first19326/hexo-liveforcode@master/static/image/header/home.jpg
   - https://cdn.jsdelivr.net/gh/first19326/hexo-liveforcode@master/static/image/header/home.jpeg
+  - http://desk-fd.zol-img.com.cn/t_s1920x1080/g6/M00/03/05/ChMkKmAd-R-IGbg9AAmT2xHAEmcAAJfgwPApwUACZPz463.jpg
 # 主页头图上的标语, 设置此选项会固定显示文字, 默认为空, 自动获取一句
 HomeBannerText: ""
 
@@ -179,7 +180,7 @@ MenuLink:
     url: ""
   -
     icon: icon-github
-    url: https://github.com/first19326
+    url: https://github.com/freemyis
 
 
 # ---- 页脚配置 ----
@@ -218,8 +219,8 @@ FontIconExtend: ""
 Donate: 
   paypal : ""
   bitcoin: ""
-  alipay : https://cdn.jsdelivr.net/gh/first19326/hexo-liveforcode@master/static/image/donate/alipay.png
-  wechat : https://cdn.jsdelivr.net/gh/first19326/hexo-liveforcode@master/static/image/donate/wechat.png
+  alipay : ./source/image/hexo.png
+  wechat : ./source/image/hexo.png
 
 
 # ---- Code Style ----
@@ -244,8 +245,8 @@ Search:
 Valine: 
   switch: true
   el: .comments-content
-  appId: srhKtvWPQTWYKh3qX8G8M7v0-gzGzoHsz
-  appKey: 8uVSP1q6UlALVC5igYfIfv2h
+  appId: NEl0CJIQBqHCxUFLICGU36ld-gzGzoHsz
+  appKey: S80SgyK1J7evq5JTIAFcuCOG
   placeholder: 你是我一生只会遇见一次的惊喜...
   avatar: mm
   meta: nick,mail,link
