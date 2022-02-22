@@ -284,7 +284,7 @@ Music:
 APlayer:
   container: .aplayer
   fixed: true 
-  autoplay: false 
+  autoplay: true 
   loop: all 
   order: random 
   preload: auto 
