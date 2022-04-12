@@ -8,7 +8,7 @@ GitHubRepositories: blogs.floder
 # 博主名称, 文章后缀和主页图片上都会使用此名称
 BlogUser: redking
 # 用户头像URL
-BlogAvatar: https://tse4-mm.cn.bing.net/th/id/OIP-C.CeCqNRmX9johL3kcgIBDXwAAAA?pid=ImgDet&rs=1
+BlogAvatar: https://tse2-mm.cn.bing.net/th/id/OIP-C.hv2tXlqvzfZlxNspdYREzAAAAA?w=178&h=180&c=7&r=0&o=5&pid=1.7
 # 创建时间
 BlogStartDate: "2021-03-09"
 
@@ -109,7 +109,7 @@ BackAnimation:
 HomeHeaderImage:
   - https://cdn.jsdelivr.net/gh/first19326/hexo-liveforcode@master/static/image/header/home.jpg
   - https://cdn.jsdelivr.net/gh/first19326/hexo-liveforcode@master/static/image/header/home.jpeg
-  - http://desk-fd.zol-img.com.cn/t_s1920x1080/g6/M00/03/05/ChMkKmAd-R-IGbg9AAmT2xHAEmcAAJfgwPApwUACZPz463.jpg
+  - http://pic.qianye88.com/4kcc0ba973cb3-6a24-3624-bb31-6eddd0e3509f.jpg?imageMogr2/thumbnail/x300/quality/90!
 # 主页头图上的标语, 设置此选项会固定显示文字, 默认为空, 自动获取一句
 HomeBannerText: ""
 
